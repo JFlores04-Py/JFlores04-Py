@@ -64,7 +64,7 @@ I'm passionate about using technology to solve real-world problems and am active
 
 ## 📫 Let's Connect
 - 📧 **Email:** george.floresgf2004@gmail.com  
-- 💼 **LinkedIn:** [Your LinkedIn URL] *(optional – add if available)*  
+- 💼 **LinkedIn:** (https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BrvHhP9RSRmS4svoGsa6CVA%3D%3D) 
 - 🌐 **Location:** San Diego, CA  
 
 ---
