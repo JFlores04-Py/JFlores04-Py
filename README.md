@@ -27,6 +27,11 @@ I'm passionate about using technology to solve real-world problems and am active
 
 ## 📁 Featured Projects
 
+### 🧠 SSVEP-Based BCI Obstacle Avoidance Game (Brain Computer Interface) 
+- Processed EEG signals using Python (NumPy, SciPy) with bandpass filtering and power spectral density (PSD) to extract SSVEP features 
+- Trained a logistic regression model using Scikit-learn to classify 5-class user attention, achieving 40% accuracy (p < 0.014) 
+- Validated model performance using permutation testing, confirming statistically significant results above chance 
+  
 ### 🧠 Mental Health Language Classifier
 - Built a **TF-IDF + Logistic Regression** classifier to distinguish between depression and anxiety discussions on Reddit
 - Achieved **90% accuracy** on 40,000+ posts with >90% confidence on test data
