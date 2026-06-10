@@ -1,77 +1,95 @@
 # 👋 Hi, I'm Jorge Flores
 
 **Cognitive Science (ML & Neural Computation) Student @ UC San Diego**  
-*Graduating June 2026 | Interested in AI, Data Science, Robotics & Embedded Systems*
+Graduating June 2026 | Interested in AI, Data Science, Robotics & Embedded Systems
 
 ---
 
 ## 🧠 About Me
-I'm a senior at UC San Diego studying **Cognitive Science with a specialization in Machine Learning & Neural Computation**.  
-My academic and project work bridges **computation, data science, and hardware**—from building machine learning classifiers to programming autonomous robots.  
-I'm passionate about using technology to solve real-world problems and am actively building my portfolio in **Python, C/C++, and data-driven applications**.
+
+I'm a senior at UC San Diego studying Cognitive Science with a specialization in Machine Learning & Neural Computation.  
+My work bridges data science, signal processing, and embedded systems — from EEG-based brain-computer interfaces to autonomous robotics.  
+I'm actively building my portfolio in Python, C/C++, and ML-driven applications.
 
 ---
 
 ## 🔧 Technical Skills
-### 💻 Programming Languages
-`C` `C++` `Python` `Java` `JavaScript` `MATLAB`
 
-### 🛠️ Tools & Platforms
-`Git/GitHub` `Jupyter Notebook` `Anaconda` `Arduino` `KiCad` `MathWorks`
-
-### 📊 Data & Math
-`Data Analysis` `Statistical Testing` `Regression` `Data Visualization`  
-`Calculus` `Linear Algebra` `Differential Equations` `Probability & Statistics`
+**Languages:** C, C++, Python, Java, JavaScript, MATLAB  
+**Libraries & Frameworks:** NumPy, Pandas, SciPy, Scikit‑learn, Matplotlib, Seaborn, MNE  
+**Tools:** Git/GitHub, Jupyter Notebook, Anaconda, Arduino, KiCad  
+**Data & ML:** Statistical modeling (t‑tests, ANOVA, regression), signal processing, feature extraction, EEG analysis
 
 ---
 
 ## 📁 Featured Projects
 
-### 🧠 SSVEP-Based BCI Obstacle Avoidance Game (Brain Computer Interface) 
-- Processed EEG signals using Python (NumPy, SciPy) with bandpass filtering and power spectral density (PSD) to extract SSVEP features 
-- Trained a logistic regression model using Scikit-learn to classify 5-class user attention, achieving 40% accuracy (p < 0.014) 
-- Validated model performance using permutation testing, confirming statistically significant results above chance 
-  
-### 🧠 Mental Health Language Classifier
-- Built a **TF-IDF + Logistic Regression** classifier to distinguish between depression and anxiety discussions on Reddit
-- Achieved **90% accuracy** on 40,000+ posts with >90% confidence on test data
-- *Tools: Python, Scikit-learn, Pandas, NLTK*
+### 🎮 Reaction Time Analysis: Gamers vs. Non‑Gamers *(Mar 2026 – Jun 2026)*
+- Analyzed reaction time data from 27 participants using Python (Pandas, NumPy, SciPy) on an N‑back task.  
+- Performed independent samples t‑test: gamers averaged 160 ms faster (910.7 ms vs. 1070.4 ms), though not significant (p = 0.077).  
+- Created boxplots and bar charts with Matplotlib to visualize distributions and the impact of small sample size.
 
-### 🤖 Autonomous Line-Following Robot
-- Built and programmed an **Arduino-based robot** with light sensors to follow a track autonomously
-- Used **C++ and MATLAB** for control, circuit design, and sensor integration
-- Placed **3rd in final competition** against peers
+### 🚢 Titanic Survival Prediction *(Apr 2026 – Jun 2026)*
+- Cleaned 891 passenger records with Pandas (median imputation, encoding).  
+- Compared logistic regression vs. K‑NN (k=1..50) using 5‑fold CV; selected best k=21. Also explored L1/L2 regularization and PCA.  
+- Achieved **79.3% test accuracy** – visualized with confusion matrices, ROC curves, and survival‑rate plots.
 
-### 🗺️ Karel the Robot Pathfinding
-- Programmed a virtual robot in **C** to perform pathfinding, item collection, and map building
-- Implemented algorithms for **autonomous navigation in grid-based environments**
+### 🧠 SSVEP-Based BCI Obstacle Avoidance Game *(Jan 2026 – Mar 2026)*
+- Processed EEG signals (Python, NumPy, SciPy) with bandpass filtering and power spectral density (PSD) to extract SSVEP features.  
+- Trained logistic regression to classify 5‑class user attention – **40% accuracy (p < 0.014)**.  
+- Validated with permutation testing, confirming statistically significant results above chance.
 
-### 💬 Rule-Based Chatbot
-- Developed a Python chatbot in **Jupyter Notebook** with text preprocessing and response randomization
-- Applied **string processing, control flow, and I/O mapping** for conversational interaction
+### 📊 EEG Preprocessing for Dementia vs. Healthy Classification *(Jan 2026 – Mar 2026)*
+- Preprocessed resting‑state EEG (500 Hz, 19 channels) from AD, FTD, and healthy groups using **MNE‑Python** (re‑referencing, notch filter, 1‑40 Hz bandpass).  
+- Visualized raw brainwave activity across all subjects to assess signal quality.  
+- Built a reproducible preprocessing pipeline for future feature extraction and ML classification.
+
+### 🗣️ Mental Health Language Classification *(Sep 2025 – Dec 2025)*
+- Built TF‑IDF + logistic regression classifier to distinguish depression vs. anxiety discussions on Reddit.  
+- Achieved **90% accuracy** on 40,000+ posts with >90% confidence on test data.  
+- **Tools:** Python, Scikit‑learn, Pandas, NLTK.
+
+### 🤖 Autonomous Line‑Following Robot *(Jan 2024 – Mar 2024)*
+- Built Arduino robot with 5 IR sensors; implemented PID control in C++ for smooth tracking.  
+- Used MATLAB to calibrate sensors, reducing on‑track tuning time by ~40%.  
+- **Placed 3rd out of 18 teams** in final competition.
+
+---
+
+## 💼 Professional Experience
+
+**Walmart Supercenter – Digital Personal Shopper** *(Jul 2024 – Sep 2024)*  
+- Managed end‑to‑end order flow, achieving 80% time efficiency.  
+- Resolved customer issues – 100% satisfaction rating across 100+ interactions.
+
+**Wonderful Company – Engineering Intern** *(Jun 2022 – Jul 2022)*  
+- Collaborated on a final presentation covering mechanical/electrical concepts.  
+- Applied safety protocols (Lockout/Tagout, electrical hazard awareness).
 
 ---
 
 ## 📚 Currently Learning & Building
-- Developing **Python applications** (calculator, utilities, data tools) to strengthen my programming portfolio
-- Exploring **signal processing, embedded systems, and machine learning deployment**
-- Actively involved in **ACM at UCSD**—attending workshops and collaborating on coding projects
+
+- Deepening signal processing & embedded ML deployment.  
+- Developing Python utilities and data tools to strengthen my programming portfolio.  
+- Active member of **ACM at UCSD** – workshops and collaborative coding.
 
 ---
 
 ## 🏆 Certifications & Awards
-- **OSHA General Industry Safety & Health Certification** (2022)
-- **California Coalition Dedicated to Dual Enrollment (CCEMC)** Student Recipient
-- **Cum Laude Graduate**, Bakersfield College
-- **Wonderful Education Scholarship Recipient** (2022–2026)
+
+- OSHA General Industry Safety & Health Certification (2022)  
+- CCEMC Student Recipient  
+- Cum Laude Graduate, Bakersfield College  
+- Wonderful Education Scholarship (2022–2026)
 
 ---
 
 ## 📫 Let's Connect
-- 📧 **Email:** george.floresgf2004@gmail.com  
-- 💼 **LinkedIn:**  https://www.linkedin.com/in/jorge-flores-baa242300/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2YVE6JMtTuuXPjP029wktA%3D%3D
-- 🌐 **Location:** San Diego, CA  
 
----
+- **Email:** [george.floresgf2004@gmail.com](mailto:george.floresgf2004@gmail.com)  
+- **GitHub:** [My Github](https://github.com/JFlores04-Py)  
+- **LinkedIn:** [linkedin.com/in/jorge-flores-baa242300](https://www.linkedin.com/in/jorge-flores-baa242300/)  
+- **Location:** San Diego, CA  
 
-> “Curious about the intersection of mind and machine — building tools that learn, adapt, and assist.”
+> *“Curious about the intersection of mind and machine — building tools that learn, adapt, and assist.”*
