@@ -53,7 +53,7 @@ I'm actively building my portfolio in Python, C/C++, and ML-driven applications.
 - Preprocessed resting‑state EEG (500 Hz, 19 channels) from AD, FTD, and healthy groups using **MNE‑Python** (re‑referencing, notch filter, 1‑40 Hz bandpass).  
 - Visualized raw brainwave activity across all subjects to assess signal quality.  
 - Built a reproducible preprocessing pipeline for future feature extraction and ML classification.  
-🔗 [Repo](https://github.com/JFlores04-Py/Theta-Wave-Projectt)
+🔗 [Repo](https://github.com/JFlores04-Py/Theta-Wave-Project)
 
 ---
 
