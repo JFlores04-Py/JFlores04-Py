@@ -26,33 +26,49 @@ I'm actively building my portfolio in Python, C/C++, and ML-driven applications.
 
 ### 🎮 Reaction Time Analysis: Gamers vs. Non‑Gamers *(Mar 2026 – Jun 2026)*
 - Analyzed reaction time data from 27 participants using Python (Pandas, NumPy, SciPy) on an N‑back task.  
-- Performed independent samples t‑test: gamers averaged 160 ms faster (910.7 ms vs. 1070.4 ms), though not significant (p = 0.077).  
-- Created boxplots and bar charts with Matplotlib to visualize distributions and the impact of small sample size.
+- Performed an independent samples t‑test: gamers averaged 160 ms faster (910.7 ms vs. 1070.4 ms), though not significant (p = 0.077).  
+- Created boxplots and bar charts with Matplotlib to visualize distributions and the impact of small sample size.  
+🔗 [Repo](https://github.com/JFlores04-Py/gamer-reaction-time-analysis)
+)
+
+---
 
 ### 🚢 Titanic Survival Prediction *(Apr 2026 – Jun 2026)*
 - Cleaned 891 passenger records with Pandas (median imputation, encoding).  
 - Compared logistic regression vs. K‑NN (k=1..50) using 5‑fold CV; selected best k=21. Also explored L1/L2 regularization and PCA.  
-- Achieved **79.3% test accuracy** – visualized with confusion matrices, ROC curves, and survival‑rate plots.
+- Achieved **79.3% test accuracy** – visualized with confusion matrices, ROC curves, and survival‑rate plots.  
+🔗 [Repo](https://github.com/JFlores04-Py/Titanic-Survival-Prediction)
+
+---
 
 ### 🧠 SSVEP-Based BCI Obstacle Avoidance Game *(Jan 2026 – Mar 2026)*
 - Processed EEG signals (Python, NumPy, SciPy) with bandpass filtering and power spectral density (PSD) to extract SSVEP features.  
 - Trained logistic regression to classify 5‑class user attention – **40% accuracy (p < 0.014)**.  
-- Validated with permutation testing, confirming statistically significant results above chance.
+- Validated with permutation testing, confirming statistically significant results above chance.  
+🔗 [Repo](https://github.com/JFlores04-Py/SSVEP-BCI-Obstacle-Game)
+
+---
 
 ### 📊 EEG Preprocessing for Dementia vs. Healthy Classification *(Jan 2026 – Mar 2026)*
 - Preprocessed resting‑state EEG (500 Hz, 19 channels) from AD, FTD, and healthy groups using **MNE‑Python** (re‑referencing, notch filter, 1‑40 Hz bandpass).  
 - Visualized raw brainwave activity across all subjects to assess signal quality.  
-- Built a reproducible preprocessing pipeline for future feature extraction and ML classification.
+- Built a reproducible preprocessing pipeline for future feature extraction and ML classification.  
+🔗 [Repo](https://github.com/JFlores04-Py/Theta-Wave-Projectt)
+
+---
 
 ### 🗣️ Mental Health Language Classification *(Sep 2025 – Dec 2025)*
 - Built TF‑IDF + logistic regression classifier to distinguish depression vs. anxiety discussions on Reddit.  
 - Achieved **90% accuracy** on 40,000+ posts with >90% confidence on test data.  
-- **Tools:** Python, Scikit‑learn, Pandas, NLTK.
+- **Tools:** Python, Scikit‑learn, Pandas, NLTK.  
+🔗 [Repo](https://github.com/JFlores04-Py/COGS_108_Project)
+
+---
 
 ### 🤖 Autonomous Line‑Following Robot *(Jan 2024 – Mar 2024)*
 - Built Arduino robot with 5 IR sensors; implemented PID control in C++ for smooth tracking.  
 - Used MATLAB to calibrate sensors, reducing on‑track tuning time by ~40%.  
-- **Placed 3rd out of 18 teams** in final competition.
+- **Placed 3rd out of 18 teams** in final competition.  
 
 ---
 
@@ -88,7 +104,7 @@ I'm actively building my portfolio in Python, C/C++, and ML-driven applications.
 ## 📫 Let's Connect
 
 - **Email:** [george.floresgf2004@gmail.com](mailto:george.floresgf2004@gmail.com)  
-- **GitHub:** [My Github](https://github.com/JFlores04-Py)  
+- **GitHub:** [github.com/your-username](https://github.com/your-username)  
 - **LinkedIn:** [linkedin.com/in/jorge-flores-baa242300](https://www.linkedin.com/in/jorge-flores-baa242300/)  
 - **Location:** San Diego, CA  
 
